@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"2570894cbda77b6a","x":-229,"y":-11,"width":417,"height":400,"type":"file","file":"Oligodendroglioma.md"},
+		{"id":"2a7c0fbc089d7ebb","x":-720,"y":-179,"width":250,"height":60,"type":"text","text":"Gliomi diffusi dell'adulto /Adult-type diffuse gliomas"},
+		{"id":"e398f06376923c58","x":-229,"y":-440,"width":417,"height":379,"type":"file","file":"Glioblastoma.md"},
+		{"id":"c7ed24aabff49b42","x":-229,"y":-880,"width":417,"height":400,"type":"file","file":"Astrocitoma.md"}
+	],
+	"edges":[
+		{"id":"a311c4834f7bf271","fromNode":"e398f06376923c58","fromSide":"left","toNode":"2a7c0fbc089d7ebb","toSide":"right"},
+		{"id":"92194b2237f2e36e","fromNode":"2570894cbda77b6a","fromSide":"left","toNode":"2a7c0fbc089d7ebb","toSide":"right"},
+		{"id":"86151dd1ef7af81f","fromNode":"c7ed24aabff49b42","fromSide":"left","toNode":"2a7c0fbc089d7ebb","toSide":"right"}
+	]
+}

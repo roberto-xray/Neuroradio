@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "be9d2fb4ef80a7dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0f1d81ed00a7f41",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7035e6ef0ec12632",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": -266,
+                  "y": -245.5,
+                  "zoom": -0.9411683236714466
+                }
+              }
+            }
+          },
+          {
+            "id": "118c3e815d85f07e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "691bef4564d962fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rhabdomyosarcomas (head and neck).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "207661062d39dd30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rhabdomyosarcoma.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f24c87a73360b0b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0864e4663505a8a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e01fe11d90f2e8f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "42d11bcc1c7eee2a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "39a723f6bb44c710",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7b301d43cfc845ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "e529ad9d179ff3f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26577bd212c14030",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Rhabdomyosarcomas (head and neck).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "962238d75d42864c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Rhabdomyosarcomas (head and neck).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "81d92a862917a735",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2bd4f09b5dfd4832",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Rhabdomyosarcomas (head and neck).md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "691bef4564d962fd",
+  "lastOpenFiles": [
+    "Rhabdomyosarcoma.md",
+    "Rhabdomyosarcomas (head and neck).md",
+    "Haemangioblastoma (central nervous system).md",
+    "vascular malformations.md",
+    "Haemangioma.md",
+    "Supratentorial ependymoma.md",
+    "Posterior fossa ependymoma.md",
+    "Gangliocytoma.md",
+    "Meningioma.md",
+    "Cauda equina neuroendocrine tumour.md",
+    "Malignant peripheral nerve sheath tumour.md",
+    "Malignant melanotic nerve sheath tumour.md",
+    "Hybrid nerve sheath tumour.md",
+    "Perineurioma.md",
+    "Neurofibroma.md",
+    "Schwannoma.md",
+    "Desmoplastic myxoid tumour of the pineal region, SMARCB1-mutant.md",
+    "Papillary tumour of the pineal region.md",
+    "Pineoblastoma.md",
+    "Pineal parenchymal tumour of intermediate differentiation.md",
+    "Pineocytoma.md",
+    "CNS tumour with BCOR internal tandem duplication.md",
+    "CNS neuroblastoma, FOXR2-activated.md",
+    "Embryonal tumour with multilayered rosettes.md",
+    "Myxopapillary ependymoma.md",
+    "Spinal ependymoma.md",
+    "Untitled.canvas"
+  ]
+}
